@@ -1,0 +1,60 @@
+# #
+#      RegulonDB is free for academic/noncommercial use 
+# 
+#      User is not entitled to change or erase data sets of the RegulonDB 
+#      database or to eliminate copyright notices from RegulonDB. Furthermore, 
+#      User is not entitled to expand RegulonDB or to integrate RegulonDB partly 
+#      or as a whole into other databank systems, without prior written consent 
+#      from CCG-UNAM. 
+# 
+#      Please check the license at http://regulondb.ccg.unam.mx/menu/download/full_version/terms_and_conditions.jsp 
+# 
+# Citation 
+# 
+#      Gama-Castro S. et al. (2016). "RegulonDB version 9.0: high-level integration of gene regulation, coexpression, motif clustering and beyond". 
+#      Nucleic Acids Res. 2016 Jan 4;44(D1):D133-43. doi: 10.1093/nar/gkv1156. Epub 2015 Nov 2. 
+# 
+# 
+# Contact 
+# 
+#      Person: RegulonDB Team 
+#      Web Page: http://regulondb.ccg.unam.mx/menu/about_regulondb/contact_us/index.jsp 
+#          (regulondb@ccg.unam.mx) 
+# 
+#
+ # RegulonDB: 9.1
+# Table: INTERMEDIATE
+# Columns:
+# 1) INTERMEDIATE_ID
+# 2) INTERMEDIATE_NAME
+# 3) INTERMEDIATE_NOTE
+GID000012859	Tyrosine	
+GID000012860	RpoS	
+GID000012861	CpxA	
+GID000012862	phenylalanine	
+GID000012863	tryptophan	
+GID000012864	Nitric Oxide	
+GID000012865	MoeA	
+GID000012866	sigma 38, AppY	
+GID000012867	Hns, StpA	
+GID000012868	Mlc	
+GID000012869	DcuR	
+GID000012870	DcuR, DcuS	
+GID000012871	ArcB	
+GID000012872	ppGpp	
+GID000012873	Sigma32	
+GID000012874	ArcA, AppY	
+GID000012875	ArcA, BetI	
+GID000012876	Lrp	
+GID000012877	UDP-glocose	
+GID000012878	Acetyl phosphate	
+GID000012879	s	
+GID000012880	F	
+GID000012881	Pyruvate	
+GID000012882	TorS	
+GID000012883	Fnr, NarP	
+GID000012884	sigma 54	
+GID000012885	sigma 24	
+GID000012886	IHF, ArcA-P	
+GID000012887	Ferric citrate	
+GID000012888	cya	

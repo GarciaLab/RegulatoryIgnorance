@@ -1,0 +1,156 @@
+# #
+#      RegulonDB is free for academic/noncommercial use 
+# 
+#      User is not entitled to change or erase data sets of the RegulonDB 
+#      database or to eliminate copyright notices from RegulonDB. Furthermore, 
+#      User is not entitled to expand RegulonDB or to integrate RegulonDB partly 
+#      or as a whole into other databank systems, without prior written consent 
+#      from CCG-UNAM. 
+# 
+#      Please check the license at http://regulondb.ccg.unam.mx/menu/download/full_version/terms_and_conditions.jsp 
+# 
+# Citation 
+# 
+#      Gama-Castro S. et al. (2016). "RegulonDB version 9.0: high-level integration of gene regulation, coexpression, motif clustering and beyond". 
+#      Nucleic Acids Res. 2016 Jan 4;44(D1):D133-43. doi: 10.1093/nar/gkv1156. Epub 2015 Nov 2. 
+# 
+# 
+# Contact 
+# 
+#      Person: RegulonDB Team 
+#      Web Page: http://regulondb.ccg.unam.mx/menu/about_regulondb/contact_us/index.jsp 
+#          (regulondb@ccg.unam.mx) 
+# 
+#
+ # RegulonDB: 9.1
+# Table: EFFECTOR
+# Columns:
+# 1) EFFECTOR_ID
+# 2) EFFECTOR_NAME
+# 3) CATEGORY
+# 4) EFFECTOR_TYPE
+# 5) EFFECTOR_NOTE
+# 6) EFFECTOR_INTERNAL_COMMENT
+# 7) KEY_ID_ORG
+ECK120011196	Tyrosine		positive			ECK12
+ECK120011237	cAMP		positive			ECK12
+ECK120011271	Phosphate		positive			ECK12
+ECK120011314	O-acetyl-L-serine		positive			ECK12
+ECK120011380	Na<SUP>+</SUP>		positive			ECK12
+ECK120011385	Leucine		positive			ECK12
+ECK120011439	Glycolate		positive			ECK12
+ECK120011484	3HPP		positive			ECK12
+ECK120011672	L-arginine		positive			ECK12
+ECK120011905	ATP		positive			ECK12
+ECK120012103	5-ketogluconate		positive			ECK12
+ECK120012178	Tryptophan		positive			ECK12
+ECK120012220	Maltotriose					ECK12
+ECK120012353	Melibiose		positive			ECK12
+ECK120012633	Phenylalanine		positive			ECK12
+ECK120012648	bio-5'-AMP		positive			ECK12
+ECK120012856	Hypoxanthine		positive			ECK12
+ECK120012879	L-rhamnose		positive			ECK12
+ECK120013067	Cyanate		positive			ECK12
+ECK120013094	Formate		positive			ECK12
+ECK120013788	Xylose		positive			ECK12
+ECK120015583	2-methylcitrate		positive			ECK12
+ECK120015638	allantoin		positive			ECK12
+ECK120015772	MoO<sub>4</sub><sup>2-</sup>		positive			ECK12
+ECK120016261	Zn<sup>2+</sup>		positive			ECK12
+ECK120030010	D-serine		positive			ECK12
+ECK120030024	galactose		negative			ECK12
+ECK120030060	TorI		negative			ECK12
+ECK120030066	xanthosine		positive			ECK12
+ECK120030266	L-alanine		positive			ECK12
+ECK120033481	L-fuculose-1-phosphate		positive			ECK12
+ECK120034462	HCA					ECK12
+ECK120034578	L-lactose					ECK12
+ECK120034984	2-acetolactate		positive			ECK12
+ECK120049025	L-homocysteine		positive			ECK12
+ECK120051453	L-tartrate					ECK12
+ECK125110180	L-carnitine					ECK12
+ECK125135089	Mn<sup>2+</sup>		positive			ECK12
+ECK125147179	Ag		positive			ECK12
+ECK125147181	Au		positive			ECK12
+ECK125147230	Cd<sup>2+</sup>		positive			ECK12
+ECK125147243	Cu<sup>2+</sup>		positive			ECK12
+ECK125147278	Hg		positive			ECK12
+ECK125147283	Monoacetylchitobiose-6P		positive			ECK12
+ECK125147285	Ethidium		negative			ECK12
+ECK125147286	Proflavin		negative			ECK12
+ECK125147287	R6G		negative			ECK12
+ECK125147288	Methyl		positive			ECK12
+ECK125147289	D-allose		negative			ECK12
+ECK125147290	L-arabinose		positive			ECK12
+ECK125147291	D-fucose		negative			ECK12
+ECK125147292	Lysine		negative			ECK12
+ECK125147294	Thiosulphate		negative			ECK12
+ECK125147295	N-acetyl-L-serine		positive			ECK12
+ECK125147296	Sulphide		negative			ECK12
+ECK125147297	Cytidine		negative			ECK12
+ECK125147298	Deoxyribose-5-phosphate		negative			ECK12
+ECK125147299	EIIGlc		negative			ECK12
+ECK125147300	DhaK		negative			ECK12
+ECK125147303	Fe<sup>2+</sup>		negative			ECK12
+ECK125147304	Glycine		negative			ECK12
+ECK125147305	Purine		negative			ECK12
+ECK125147306	Acetate		positive			ECK12
+ECK125147307	Glucitol		negative			ECK12
+ECK125147308	Idonate		positive			ECK12
+ECK125147309	Alfa-acetohydroxybutirate		positive			ECK12
+ECK125147311	[2Fe-2S]<sup>1+</sup>		positive			ECK12
+ECK125147312	L-lactate		positive			ECK12
+ECK125147313	ADP		positive			ECK12
+ECK125147314	Aes		negative			ECK12
+ECK125147315	MalY		negative			ECK12
+ECK125147316	Benzoate		negative			ECK12
+ECK125147317	Menadione		negative			ECK12
+ECK125147318	Paraquat		negative			ECK12
+ECK125147319	Phenazine methosulfate		negative			ECK12
+ECK125147320	Plumbagin		negative			ECK12
+ECK125147321	Sodium salicylate		negative			ECK12
+ECK125147322	3-(2,3-dihydroxyphenyl)propionate [DHPP]		positive			ECK12
+ECK125147323	Carbonyl cyanide m-chlorophenylhydrazone (CCCP)		negative			ECK12
+ECK125147324	Carbonyl cyanide p-(trifluoro-methoxy)phenylhydrazone		negative			ECK12
+ECK125147325	MurNac-6-P		negative			ECK12
+ECK125147328	[2Fe-2S] reduced		positive			ECK12
+ECK125147330	Pyruvate		negative			ECK12
+ECK125147331	Guanine		positive			ECK12
+ECK125147333	Thymine		negative			ECK12
+ECK125147334	[2Fe-2S]<sup>3+</sup> oxydized		positive			ECK12
+ECK125147335	[2Fe-2S]<sup>2+</sup> reduced		negative			ECK12
+ECK125147336	Trehalose		negative			ECK12
+ECK125147358	Glyoxylate		negative			ECK12
+ECK125147359	Arsenite		negative			ECK12
+ECK125147360	Antimonite		negative			ECK12
+ECK125147361	Choline		negative			ECK12
+ECK125147362	Adenosine 5' phosphosulphate		negative			ECK12
+ECK125147363	Acyl-CoA		negative			ECK12
+ECK125147364	[4Fe-4S]<sup>2+</sup> reduced		positive			ECK12
+ECK125147366	[2Fe-2S]<sup>2+</sup> oxidized		negative			ECK12
+ECK125147368	Fructose-1-phosphate		negative			ECK12
+ECK125147369	Fructose-1,6-diphosphate		negative			ECK12
+ECK125147370	Glycerol-3-phosphate		negative			ECK12
+ECK125147371	Gluconate		negative			ECK12
+ECK125147373	Allolactose		negative			ECK12
+ECK125147374	Salicylate		negative			ECK12
+ECK125147375	dATP		positive			ECK12
+ECK125147379	Uracil		negative			ECK12
+ECK125147380	Trehalose-6-phosphate		negative			ECK12
+ECK125147381	Fructuronate		negative			ECK12
+ECK125147385	L-asparagine		negative			ECK12
+ECK125147393	4,5-dihydroxy-2,3-pentanedione-P		negative			ECK12
+ECK125147395	MalK		negative			ECK12
+ECK125147397	2,4-dinitrophenol		negative			ECK12
+ECK125147399	N-acetyl-D-glucosamine-6-phosphate		negative			ECK12
+ECK125147401	N-acetylneuraminate		negative			ECK12
+ECK125147403	Co<sup>2+</sup>		negative			ECK12
+ECK125147404	Ni<sup>2+</sup>		negative			ECK12
+ECK125147405	D-ribose		negative			ECK12
+ECK125147408	4,5-dihydroxy-2,3-pentanedione		negative			ECK12
+ECK125158286	<i>N</i>-monoacetylchitobiose-6-phosphate					ECK12
+ECK125158288	2Fe-2S					ECK12
+ECK125160710	nitric oxide					ECK12
+ECK125161300	Met-oxidized					ECK12
+ECK129999996	S-adenosylmethionine		positive			ECK12
+ECK129999998	Cu<sup>+</sup>		positive			ECK12

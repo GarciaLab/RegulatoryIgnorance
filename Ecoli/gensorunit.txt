@@ -1,0 +1,226 @@
+# #
+#      RegulonDB is free for academic/noncommercial use 
+# 
+#      User is not entitled to change or erase data sets of the RegulonDB 
+#      database or to eliminate copyright notices from RegulonDB. Furthermore, 
+#      User is not entitled to expand RegulonDB or to integrate RegulonDB partly 
+#      or as a whole into other databank systems, without prior written consent 
+#      from CCG-UNAM. 
+# 
+#      Please check the license at http://regulondb.ccg.unam.mx/menu/download/full_version/terms_and_conditions.jsp 
+# 
+# Citation 
+# 
+#      Gama-Castro S. et al. (2016). "RegulonDB version 9.0: high-level integration of gene regulation, coexpression, motif clustering and beyond". 
+#      Nucleic Acids Res. 2016 Jan 4;44(D1):D133-43. doi: 10.1093/nar/gkv1156. Epub 2015 Nov 2. 
+# 
+# 
+# Contact 
+# 
+#      Person: RegulonDB Team 
+#      Web Page: http://regulondb.ccg.unam.mx/menu/about_regulondb/contact_us/index.jsp 
+#          (regulondb@ccg.unam.mx) 
+# 
+#
+ # RegulonDB: 9.1
+# Table: GENSORUNIT
+# Columns:
+# 1) GU_ID
+# 2) GU_NAME
+# 3) GU_DESCRIPTION
+# 4) GU_MAP_FILE
+# 5) GU_STATUS
+# 6) EFFECTOR_FEEDBACK_PATHS
+# 7) PROTEINCOMPLEX_REGULATED_BY_TF
+# 8) TOTAL_ENZYMES_WITHCONNECTIVITY
+# 9) ENZYMES_WITHCONNECTIVITY
+# 10) NOTE
+GU0000127678	Zur		Zur_gu_image.xml						
+GU0000127679	ZraR		ZraR_gu_image.xml						
+GU0000127680	ZntR		ZntR_gu_image.xml						
+GU0000127681	YqjI	 YqjI negatively regulates the expression of genes involved in the process of iron assimilation in the absence of Fe2+ and Ni2+. The presence of Fe2+ and Ni2+ induces the expression of genes related to the release of Fe2+  from  Fe(III)-siderophore.  	YqjI_gu_image.xml						
+GU0000127682	YqhC		YqhC_gu_image.xml						
+GU0000127683	YiaJ		YiaJ_gu_image.xml						
+GU0000127684	YeiL		YeiL_gu_image.xml						
+GU0000127685	YpdB		YpdB_gu_image.xml						
+GU0000127686	YehT		YehT_gu_image.xml						
+GU0000127687	YefM-YoeB		YefM-YoeB_gu_image.xml						
+GU0000127688	YefM		YefM_gu_image.xml						
+GU0000127689	XylR		XylR_gu_image.xml						
+GU0000127690	YdeO		YdeO_gu_image.xml						
+GU0000127691	XapR		XapR_gu_image.xml						
+GU0000127692	UidR		UidR_gu_image.xml						
+GU0000127693	UlaR		UlaR_gu_image.xml						
+GU0000127694	UhpA		UhpA_gu_image.xml						
+GU0000127695	UxuR		UxuR_gu_image.xml						
+GU0000127696	TyrR		TyrR_gu_image.xml						
+GU0000127697	TrpR		TrpR_gu_image.xml						
+GU0000127698	TreR		TreR_gu_image.xml						
+GU0000127699	TorR		TorR_gu_image.xml						
+GU0000127700	TdcR		TdcR_gu_image.xml						
+GU0000127701	TdcA		TdcA_gu_image.xml						
+GU0000127702	StpA		StpA_gu_image.xml						
+GU0000127703	SlyA		SlyA_gu_image.xml						
+GU0000127704	SoxR		SoxR_gu_image.xml						
+GU0000127705	SoxS		SoxS_gu_image.xml						
+GU0000127706	SgrR		SgrR_gu_image.xml						
+GU0000127707	RstA		RstA_gu_image.xml						
+GU0000127708	SdiA		SdiA_gu_image.xml						
+GU0000127709	RutR		RutR_gu_image.xml						
+GU0000127710	RtcR		RtcR_gu_image.xml						
+GU0000127711	Rob		Rob_gu_image.xml						
+GU0000127712	RhaR		RhaR_gu_image.xml						
+GU0000127713	RhaS		RhaS_gu_image.xml						
+GU0000127714	RelB		RelB_gu_image.xml						
+GU0000127715	RelB-RelE		RelB-RelE_gu_image.xml						
+GU0000127716	RcsB-BglJ		RcsB-BglJ_gu_image.xml						
+GU0000127717	RcdA		RcdA_gu_image.xml						
+GU0000127718	RcsB		RcsB_gu_image.xml						
+GU0000127719	RcsAB		RcsAB_gu_image.xml						
+GU0000127720	RbsR		RbsR_gu_image.xml						
+GU0000127721	RcnR	 RcnR negatively regulates the expression of genes involved in detoxification of cobalt and nickel in the absence of cobalt/nickel. The presence of cobalt or nickel induces the expression of genes related to an efflux system for cobalt and nickel. 	RcnR_gu_image.xml						
+GU0000127722	QseB		QseB_gu_image.xml						
+GU0000127723	PutA		PutA_gu_image.xml						
+GU0000127724	PuuR		PuuR_gu_image.xml						
+GU0000127725	PurR		PurR_gu_image.xml						
+GU0000127726	PspF		PspF_gu_image.xml						
+GU0000127727	PhoP		PhoP_gu_image.xml						
+GU0000127728	PgrR		PgrR_gu_image.xml						
+GU0000127729	PepA		PepA_gu_image.xml						
+GU0000127730	PrpR		PrpR_gu_image.xml						
+GU0000127731	PhoB		PhoB_gu_image.xml						
+GU0000127732	OxyR		OxyR_gu_image.xml						
+GU0000127733	PaaX		PaaX_gu_image.xml						
+GU0000127734	PdhR		PdhR_gu_image.xml						
+GU0000127735	OmpR		OmpR_gu_image.xml						
+GU0000127736	NtrC		NtrC_gu_image.xml						
+GU0000127737	NorR		NorR_gu_image.xml						
+GU0000127738	NsrR		NsrR_gu_image.xml						
+GU0000127739	NrdR		NrdR_gu_image.xml						
+GU0000127740	NhaR		NhaR_gu_image.xml						
+GU0000127741	NikR		NikR_gu_image.xml						
+GU0000127742	NarP		NarP_gu_image.xml						
+GU0000127743	NanR		NanR_gu_image.xml						
+GU0000127744	NemR		NemR_gu_image.xml						
+GU0000127745	NagC		NagC_gu_image.xml						
+GU0000127746	NarL		NarL_gu_image.xml						
+GU0000127747	MurR		MurR_gu_image.xml						
+GU0000127748	NadR		NadR_gu_image.xml						
+GU0000127749	Nac		Nac_gu_image.xml						
+GU0000127750	MtlR		MtlR_gu_image.xml						
+GU0000127751	MqsA		MqsA_gu_image.xml						
+GU0000127752	MntR		MntR_gu_image.xml						
+GU0000127753	MprA		MprA_gu_image.xml						
+GU0000127754	ModE		ModE_gu_image.xml						
+GU0000127755	MngR		MngR_gu_image.xml						
+GU0000127756	MlrA		MlrA_gu_image.xml						
+GU0000127757	MetR		MetR_gu_image.xml						
+GU0000127758	Mlc		Mlc_gu_image.xml						
+GU0000127759	MhpR	 MhpR positively regulates the expression of genes involved in phenylpropanoid catabolic process in the presence of 3-(3-hydroxyphenyl) propionate. The presence of 3-(3-hydroxyphenyl) propionate induces the expression of genes related to the conversion of 3-(3-hydroxyphenyl) propionate to acetaldehyde, a precursor of acetyl-CoA.  	MhpR_gu_image.xml						
+GU0000127760	MelR		MelR_gu_image.xml						
+GU0000127761	MetJ		MetJ_gu_image.xml						
+GU0000127762	MarR		MarR_gu_image.xml						
+GU0000127763	McbR		McbR_gu_image.xml						
+GU0000127764	MazE-MazF		MazE-MazF_gu_image.xml						
+GU0000127765	MazE		MazE_gu_image.xml						
+GU0000127766	MatA		MatA_gu_image.xml						
+GU0000127767	MalT		MalT_gu_image.xml						
+GU0000127768	MarA		MarA_gu_image.xml						
+GU0000127769	LysR		LysR_gu_image.xml						
+GU0000127770	MalI		MalI_gu_image.xml						
+GU0000127771	LsrR		LsrR_gu_image.xml						
+GU0000127772	LldR		LldR_gu_image.xml						
+GU0000127773	LrhA		LrhA_gu_image.xml						
+GU0000127774	LexA		LexA_gu_image.xml						
+GU0000127775	LeuO		LeuO_gu_image.xml						
+GU0000127776	LacI	 LacI negatively regulates the expression of genes involved in the transport and catabolism of ?-D-lactose  in the absence of allolactose. The presence of allolactose induces the expression of genes related to the entry into the cell of D-lactose and its degradation to D-galactose and D-glucose. 	LacI_gu_image.xml						
+GU0000127777	IscR		IscR_gu_image.xml						
+GU0000127778	KdpE		KdpE_gu_image.xml						
+GU0000127779	IlvY	 IlvY positively regulates the expression of genes involved in reactions that are part of the  L-isoleucine, L-valine, and phosphopantothenate biosynthesis pathways in the presence or absence of (S)-2-acetolactate. The reactions entail transformation of 2-dehydropantoate  to (R)pantoate,  of (S)-2-acetolactate to (R)-2,3-dihydroxy-isovalerate, and of (S)-2-aceto-2-hydroxybutanoate to (R)-2,3-dihydroxy-3-methylvalerate; these intermediates correspond to the phosphopantothenate, L-valine, and L-isoleucine biosynthetic pathways, respectively. 	IlvY_gu_image.xml						
+GU0000127780	KdgR		KdgR_gu_image.xml						
+GU0000127781	IdnR		IdnR_gu_image.xml						
+GU0000127782	IclR		IclR_gu_image.xml						
+GU0000127783	HypT		HypT_gu_image.xml						
+GU0000127784	HyfR		HyfR_gu_image.xml						
+GU0000127785	HU		HU_gu_image.xml						
+GU0000127786	HipB		HipB_gu_image.xml						
+GU0000127787	HipAB		HipAB_gu_image.xml						
+GU0000127788	HcaR		HcaR_gu_image.xml						
+GU0000127789	HdfR		HdfR_gu_image.xml						
+GU0000127790	GutR		GutR_gu_image.xml						
+GU0000127791	GutM		GutM_gu_image.xml						
+GU0000127792	GlpR		GlpR_gu_image.xml						
+GU0000127793	GntR		GntR_gu_image.xml						
+GU0000127794	GlrR		GlrR_gu_image.xml						
+GU0000127795	GlcC		GlcC_gu_image.xml						
+GU0000127796	GcvA		GcvA_gu_image.xml						
+GU0000127797	GalR		GalR_gu_image.xml						
+GU0000127798	GatR		GatR_gu_image.xml						
+GU0000127799	GalS	 GalS negatively regulates the expression of genes involved in galactose facilitated transport in the presence or absence of beta-D-galactose and negatively regulates the expression of genes involved in methylgalactoside transport in the absence of beta-D-galactose. GalS dually regulates the expression of genes involved in galactose degradation to UDP-galactose in the absence or presence of beta-D-galactose (to respond to different conditions of galactose availability). The presence of beta-D-galactose induces the expression of genes related to methylgalactoside uptake. 	GalS_gu_image.xml						
+GU0000127800	GadW		GadW_gu_image.xml						
+GU0000127801	GadX		GadX_gu_image.xml						
+GU0000127802	GadE		GadE_gu_image.xml						
+GU0000127803	GadE-RcsB		GadE-RcsB_gu_image.xml						
+GU0000127804	Fur		Fur_gu_image.xml						
+GU0000127805	FucR		FucR_gu_image.xml						
+GU0000127806	FliZ		FliZ_gu_image.xml						
+GU0000127807	FlhDC		FlhDC_gu_image.xml						
+GU0000127808	FhlA	 FhlA positively regulates the expression of genes involved in formate catabolism, in electron transfer, in proteolysis, and in carbamoylation processes, in the presence of formate. The presence of formate induces the expression of genes related to the degradation of formate to hydrogen and CO2, the proteolysis of the HycE precursor, and the carbamoylation of HypE. 	FhlA_gu_image.xml						
+GU0000127809	FadR		FadR_gu_image.xml						
+GU0000127810	FeaR		FeaR_gu_image.xml						
+GU0000127811	FabR		FabR_gu_image.xml						
+GU0000127812	EnvY		EnvY_gu_image.xml						
+GU0000127813	ExuR		ExuR_gu_image.xml						
+GU0000127814	EvgA		EvgA_gu_image.xml						
+GU0000127815	EnvR		EnvR_gu_image.xml						
+GU0000127816	EbgR		EbgR_gu_image.xml						
+GU0000127817	DpiA		DpiA_gu_image.xml						
+GU0000127818	DnaA	 DnaA dually regulates the expression of genes involved in DNA replication and oxidation-reduction processes, and it positively regulates the polA gene, in the presence of ATP. DnaA negatively regulates the expression of genes involved in the catabolism of sugars and in the stress response in the presence of ATP. The presence of ATP inhibits the expression of genes related to the transformation of lactaldehyde to L-lactate. 	DnaA_gu_image.xml						
+GU0000127819	DsdC	 DsdC positively regulates the expression of genes involved in serine transportation and catabolism in the presence of serine. The presence of serine induces the expression of genes related to the transport and degradation of serine to pyruvate and ammonium. 	DsdC_gu_image.xml						
+GU0000127820	DinJ-YafQ		DinJ-YafQ_gu_image.xml						
+GU0000127821	DicA		DicA_gu_image.xml						
+GU0000127822	DeoR		DeoR_gu_image.xml						
+GU0000127823	DcuR		DcuR_gu_image.xml						
+GU0000127824	CytR	 CytR negatively regulates the expression of genes involved in nucleoside and nucleotide transport and catabolic processes, in the absence of cytidine. The presence of cytidine induces the expression of genes related to the transport of nucleosides and nucleotides (e.g., uridine, inosine, 2&prime;-deoxyuridine, etc.) and their transformation to ribose, ammonia, acetaldehyde, and glyceraldehyde-3-P. 	CytR_gu_image.xml						
+GU0000127825	DhaR	 DhaR positively regulates the expression of genes involved in glycerol catabolic processes in the absence of DhaK. The presence DhaK inhibits the expression of genes related to conversion of dihydroxyacetone to dihidroxyacetona phosphate (DHAP), a reaction that is part of the glycerol degradation pathway.  	DhaR_gu_image.xml						
+GU0000127826	Dan		Dan_gu_image.xml						
+GU0000127827	CynR		CynR_gu_image.xml						
+GU0000127828	CusR		CusR_gu_image.xml						
+GU0000127829	CysB		CysB_gu_image.xml						
+GU0000127830	CueR		CueR_gu_image.xml						
+GU0000127831	CspA		CspA_gu_image.xml						
+GU0000127832	Cra		Cra_gu_image.xml						
+GU0000127833	CreB		CreB_gu_image.xml						
+GU0000127834	CsgD		CsgD_gu_image.xml						
+GU0000127835	CsiR		CsiR_gu_image.xml						
+GU0000127836	CpxR		CpxR_gu_image.xml						
+GU0000127837	ChbR		ChbR_gu_image.xml						
+GU0000127838	Cbl		Cbl_gu_image.xml						
+GU0000127839	ComR		ComR_gu_image.xml						
+GU0000127840	CdaR		CdaR_gu_image.xml						
+GU0000127841	CaiF		CaiF_gu_image.xml						
+GU0000127842	BolA		BolA_gu_image.xml						
+GU0000127843	CadC		CadC_gu_image.xml						
+GU0000127844	BetI	 BetI negatively regulates the expression of genes involved in the response to osmotic stress in the absence of choline. The presence of choline induces the expression of genes related to transport and conversion of choline to glycine betaine, an osmoprotectant. 	BetI_gu_image.xml						
+GU0000127845	BirA	 BirA negatively regulates the expression of genes involved in the biotin biosynthetic process in the presence of biotin-5&prime;-AMP. The presence of biotin-5&prime;-AMP inhibits the expression of genes related to the conversion of malonyl-S-ACP to biotin. 	BirA_gu_image.xml						
+GU0000127846	BluR		BluR_gu_image.xml						
+GU0000127847	BaeR		BaeR_gu_image.xml						
+GU0000127848	BasR		BasR_gu_image.xml						
+GU0000127849	AtoC		AtoC_gu_image.xml						
+GU0000127850	AsnC		AsnC_gu_image.xml						
+GU0000127851	AscG		AscG_gu_image.xml						
+GU0000127852	ArsR	 ArsR negatively regulates the expression of genes involved in detoxification of arsenic-containing substances in the absence of arsenite and antimonite. The presence of arsenite or antimonite induces the expression of genes related to the reduction of arsenate to arsenite and to arsenite efllux. 	ArsR_gu_image.xml						
+GU0000127853	ArgP		ArgP_gu_image.xml						
+GU0000127854	ArgR		ArgR_gu_image.xml						
+GU0000127855	AppY		AppY_gu_image.xml						
+GU0000127856	AraC	 AraC positively regulates the expression of genes involved in transport of L-arabinose and negatively regulates the expression of genes involved in catabolism of D-xylulose  and also genes involved in the phosphorylation of 1-deoxy-D-xilulose-5-P, in the presence of L-arabinose. AraC dually regulates the expression of genes involved in the degradation of L-arabinose in the absence of D-fucose and presence or absence of L-arabinose. The presence of L-arabinose and the absence of D-fucose induce the expression of genes related to L-arabinose entry into the cell and genes related to the transformation from D-xylose to D-xylulose-5-P and the phosphorylation of 1-deoxy-D-xylulose-5-P. 	AraC_gu_image.xml						
+GU0000127857	AlsR	 AlsR negatively regulates the expression of genes involved in D-allose import and catabolic process in the absence of D-allose. The presence of D-allose induces the expression of genes related to D-allose uptake and degradation to D-fructose-6-phosphate (which feeds the glycolysis cycle). 	AlsR_gu_image.xml						
+GU0000127858	AdiY		AdiY_gu_image.xml						
+GU0000127859	AllS	 AllS positively regulates the expression of genes involved in an allantoin assimilation pathway in the presence of (S)-allantoin. The presence of (S)-allantoin induces the expression of genes involved in allantoin degradation to oxalurate, a way that leads to ammonium production.  	AllS_gu_image.xml						
+GU0000127860	AllR	 AllR negatively regulates the expression of genes involved in glyoxylate and allantoin catabolic processes in the presence of allantoin and the absence of glyoxylate. The presence of allantoin and the absence of glyoxylate inhibit the expression of genes related to catabolism, specifically, the conversion of allantoin to urea and glyoxylate and the transformation of glyoxylate to 3-P-D-glycerate. 	AllR_gu_image.xml						
+GU0000127861	AgaR		AgaR_gu_image.xml						
+GU0000127862	AcrR		AcrR_gu_image.xml						
+GU0000127863	Ada		Ada_gu_image.xml						
+GU0000127864	AlaS		AlaS_gu_image.xml						
+GU0000127865	AidB		AidB_gu_image.xml						
+GU0000127866	AccB		AccB_gu_image.xml						

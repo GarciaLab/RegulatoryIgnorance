@@ -1,0 +1,115 @@
+# #
+#      RegulonDB is free for academic/noncommercial use 
+# 
+#      User is not entitled to change or erase data sets of the RegulonDB 
+#      database or to eliminate copyright notices from RegulonDB. Furthermore, 
+#      User is not entitled to expand RegulonDB or to integrate RegulonDB partly 
+#      or as a whole into other databank systems, without prior written consent 
+#      from CCG-UNAM. 
+# 
+#      Please check the license at http://regulondb.ccg.unam.mx/menu/download/full_version/terms_and_conditions.jsp 
+# 
+# Citation 
+# 
+#      Gama-Castro S. et al. (2016). "RegulonDB version 9.0: high-level integration of gene regulation, coexpression, motif clustering and beyond". 
+#      Nucleic Acids Res. 2016 Jan 4;44(D1):D133-43. doi: 10.1093/nar/gkv1156. Epub 2015 Nov 2. 
+# 
+# 
+# Contact 
+# 
+#      Person: RegulonDB Team 
+#      Web Page: http://regulondb.ccg.unam.mx/menu/about_regulondb/contact_us/index.jsp 
+#          (regulondb@ccg.unam.mx) 
+# 
+#
+ # RegulonDB: 9.1
+# Table: INTERACTION
+# Columns:
+# 1) INTERACTION_ID
+# 2) REGULATOR_ID
+# 3) PROMOTER_ID
+# 4) SITE_ID
+# 5) INTERACTION_FUNCTION
+# 6) CENTER_POSITION
+# 7) INTERACTION_FIRST_GENE_ID
+# 8) AFFINITY_EXP
+# 9) INTERACTION_NOTE
+# 10) INTERACTION_INTERNAL_COMMENT
+# 11) INTERACTION_SEQUENCE
+# 12) KEY_ID_ORG
+ECK125142102	ECK125140671	ECK120010097	ECK120011222	activation							ECK12
+ECK125142103	ECK125140671	ECK120010236	ECK120011222	activation							ECK12
+ECK125160713	ECK125140671	ECK120010991	ECK120011222	activation							ECK12
+ECK125160714	ECK125140671	ECK120010241	ECK120011222	activation							ECK12
+ECK125160715	ECK125140671	ECK120010390	ECK120011222	inhibition				Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> |CITS:[21402902]|.			ECK12
+ECK125160716	ECK125140671	ECK120009864	ECK120011222	inhibition				DskA amplifies the magnitude of inhibition effects of ppGpp from <i>rrnB</i>p1 and all rRNAP1 promoters |CITS:[15294157][21402902]|. A model reflecting the contribution of DksA under regulation of rRNA expression has been developed |CITS:[15294157]|.			ECK12
+ECK125160717	ECK125140671	ECK120010118	ECK120011222	inhibition				ppGpp and DksA act directly and synergistically to negatively control <i>dusB</i>p transcription <i>in vitro</i>, reducing the lifetime of the competitor-resistant complex with RNA polymerase |CITS:[16885445]|. DksA is required for inhibition of <i>dusB </i>p transcription during mid- and late log growth and in stationary phase |CITS:[16885445]|. DksA negatively controls <i>dusB</i>p for normal growth-phase-dependent regulation of <i>dusB-fis</i>operon |CITS:[16885445]|. Moreover, DksA inhibits transcription, in part by further destabilizing intrinsically unstable promoter complexes |CITS:[16885445]|. Finally, it was shown that DksA not only amplifies the sensitivity of <i>dusB-fis</i> operon to ppGpp but also it increases the concentration of the initiating NTP required for transcription |CITS:[16885445]|.			ECK12
+ECK125160718	ECK125140671	ECK120009927	ECK120011222	inhibition				DksA weakly inhibited <i>pcnBp3</i> (pB) transcription |CITS:[20700605]|. Pronounced impairment of <i>pcnBp3</i> (pB) activity was caused by ppGpp |CITS:[20700605]|. A dramatic decrease in the level of <i>pcnBp3</i> (pB)-derived transcripts was observed when both DksA and ppGpp were present in the reaction mixture |CITS:[20700605]|.			ECK12
+ECK125160719	ECK125140671	ECK125122034	ECK120011222	inhibition				ppGpp is the main negative regulator of <i>pcnBp4</i> (pS2) <i>in vivo</i>. DksA had little effect in inhibiting the activity of <i>pcnBp4</i>(pS2). However, DksA enhanced the inhibitory effect of ppGpp |CITS:[20700605]|.			ECK12
+ECK125160720	ECK125140671	ECK120034549	ECK120011222	inhibition							ECK12
+ECK125160721	ECK125140671	ECK120010391	ECK120011222	inhibition				Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> |CITS:[21402902]|.			ECK12
+ECK125160722	ECK125140671	ECK120010440	ECK120011222	inhibition				Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> |CITS:[21402902]|.			ECK12
+ECK125160723	ECK125140671	ECK120011146	ECK120011222	inhibition				Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> |CITS:[21402902]|.			ECK12
+ECK125160724	ECK125140671	ECK120010392	ECK120011222	inhibition				Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> |CITS:[21402902]|.			ECK12
+ECK125160725	ECK125140671	ECK120010744	ECK120011222	inhibition				Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> |CITS:[21402902]|.			ECK12
+ECK125160726	ECK125140671	ECK120010310	ECK120011222	inhibition				Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> |CITS:[21402902]|.			ECK12
+ECK125160727	ECK125140671	ECK120015469	ECK120011222	inhibition				Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> |CITS:[21402902]|.			ECK12
+ECK125160728	ECK125140671	ECK120015407	ECK120011222	inhibition				Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> |CITS:[21402902]|.			ECK12
+ECK125160729	ECK125140671	ECK120015408	ECK120011222	inhibition				Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> |CITS:[21402902]|.			ECK12
+ECK125160730	ECK125140671	ECK120016981	ECK120011222	inhibition				Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> |CITS:[21402902]|.			ECK12
+ECK125160731	ECK125140671	ECK120010331	ECK120011222	inhibition				Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> |CITS:[21402902]|.			ECK12
+ECK125160732	ECK125140671	ECK120009955	ECK120011222	inhibition				Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> |CITS:[21402902]|.			ECK12
+ECK125160733	ECK125140671	ECK120029428	ECK120011222	inhibition				Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> |CITS:[21402902]|.			ECK12
+ECK125160734	ECK125140671	ECK120048895	ECK120011222	inhibition				Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> |CITS:[21402902]|.			ECK12
+ECK125160735	ECK125140671	ECK120010441	ECK120011222	inhibition				Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> |CITS:[21402902]|.			ECK12
+ECK125160736	ECK125140671	ECK120010381	ECK120011222	inhibition				Together ppGpp and DksA can inhibit more strongly the transcription initiation from the ribosomal protein promoter <i>in vitro</i> and <i>in vivo</i> |CITS:[21402902]|.			ECK12
+ECK125160737	ECK125140671	ECK120009865	ECK120011222	inhibition				DskA amplifies the magnitude of inhibition effects of ppGpp from <i>rrnB</i>p1 and all rRNAP1 promoters |CITS:[15294157][21402902]|. A model reflecting the contribution of DksA under regulation of rRNA expression has been developed |CITS:[15294157]|.			ECK12
+ECK125160738	ECK125140671	ECK120009872	ECK120011222	inhibition				DskA amplifies the magnitude of inhibition effects of ppGpp from <i>rrnB</i>p1 and all rRNAP1 promoters |CITS:[15294157][21402902]|. A model reflecting the contribution of DksA under regulation of rRNA expression has been developed |CITS:[15294157]|.			ECK12
+ECK125160739	ECK125140671	ECK120009867	ECK120011222	inhibition				DskA amplifies the magnitude of inhibition effects of ppGpp from <i>rrnB</i>p1 and all rRNAP1 promoters |CITS:[15294157][21402902]|. A model reflecting the contribution of DksA under regulation of rRNA expression has been developed |CITS:[15294157]|.			ECK12
+ECK125160740	ECK125140671	ECK120009868	ECK120011222	inhibition				DskA amplifies the magnitude of inhibition effects of ppGpp from <i>rrnB</i>p1 and all rRNAP1 promoters |CITS:[15294157][21402902]|. A model reflecting the contribution of DksA under regulation of rRNA expression has been developed |CITS:[15294157]|.			ECK12
+ECK125160741	ECK125140671	ECK120009870	ECK120011222	inhibition				DskA amplifies the magnitude of inhibition effects of ppGpp from <i>rrnB</i>p1 and all rRNAP1 promoters |CITS:[15294157][21402902]|. A model reflecting the contribution of DksA under regulation of rRNA expression has been developed |CITS:[15294157]|.			ECK12
+ECK125160742	ECK125140671	ECK120010458	ECK120011222	inhibition				DskA amplifies the magnitude of inhibition effects of ppGpp from <i>rrnB</i>p1 and all rRNAP1 promoters |CITS:[15294157][21402902]|. A model reflecting the contribution of DksA under regulation of rRNA expression has been developed |CITS:[15294157]|.			ECK12
+ECK125160743	ECK125140670	ECK120009864	ECK120011222	inhibition				ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel |CITS:[15109491]|. Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters |CITS:[15109491]|.			ECK12
+ECK125160744	ECK125140670	ECK120010458	ECK120011222	inhibition				ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel |CITS:[15109491]|. Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters |CITS:[15109491]|.			ECK12
+ECK125160745	ECK125140670	ECK120009865	ECK120011222	inhibition				ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel |CITS:[15109491]|. Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters |CITS:[15109491]|.			ECK12
+ECK125160746	ECK125140670	ECK120009872	ECK120011222	inhibition				ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel |CITS:[15109491]|. Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters |CITS:[15109491]|.			ECK12
+ECK125160747	ECK125140670	ECK120009867	ECK120011222	inhibition				ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel |CITS:[15109491]|. Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters |CITS:[15109491]|.			ECK12
+ECK125160748	ECK125140670	ECK120009868	ECK120011222	inhibition				ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel |CITS:[15109491]|. Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters |CITS:[15109491]|.			ECK12
+ECK125160749	ECK125140670	ECK120009870	ECK120011222	inhibition				ppGpp binds RNA polymerase (RNAP) near the catalytic center in the secondary channel |CITS:[15109491]|. Its binding is proposed to be stabilized by DskA. If the demand for rRNA is low, transcription can be inhibited by high levels of ppGpp or low levels of NTPs. RNAP is a direct target of ppGpp action. There are three proposed mechanisms through which ppGpp binding inhibits rRNA transcription: 1) ppGpp binds with the initiating NTP for the active site, 2) ppGpp pairs with a cytosine residue(s) just upstream of the transcription start site, 3) ppGpp decreases the lifetime of the open complex formed at all rRNA promoters |CITS:[15109491]|.			ECK12
+ECK125160750	ECK125140670	ECK120010118	ECK120011222	inhibition				ppGpp is able to inhibit <i>dusB</i>p (<i>fis</i>p) expression slightly in the absence of DksA |CITS:[15294157]|. However, ppGpp and DksA are required for normal stringent control of <i>dusB</i>p. Both act directly and synergistically to negatively control <i>dusB</i>p transcription <i>in vitro</i> |CITS:[16885445]|.			ECK12
+ECK125160751	ECK125140670	ECK120010447	ECK120011222	inhibition				<i>pyrL</i>p2 (<i>pyrB</i>p2) contains a G+C-rich sequence immediately dowstream of the _10 region that is similar to the discriminator sequence found in stringently controlled promoters |CITS:[1699940]|.			ECK12
+ECK125160752	ECK125140670	ECK125122034	ECK120011222	inhibition							ECK12
+ECK125160753	ECK125140670	ECK120009927	ECK120011222	inhibition							ECK12
+ECK125160754	ECK125140670	ECK120010734	ECK120011222	inhibition							ECK12
+ECK125160755	ECK125140670	ECK120010188	ECK120011222	inhibition							ECK12
+ECK125160756	ECK120023603	ECK125095431	ECK120011222	inhibition							ECK12
+ECK125160757	ECK120023603	ECK120022001	ECK120011222	inhibition							ECK12
+ECK125160758	ECK120023603	ECK120009864	ECK120011222	inhibition							ECK12
+ECK125160759	ECK120023603	ECK120010458	ECK120011222	inhibition							ECK12
+ECK125160760	ECK120023603	ECK120009865	ECK120011222	inhibition							ECK12
+ECK125160761	ECK120023603	ECK120009872	ECK120011222	inhibition							ECK12
+ECK125160762	ECK120023603	ECK120009867	ECK120011222	inhibition							ECK12
+ECK125160763	ECK120023603	ECK120009868	ECK120011222	inhibition							ECK12
+ECK125160764	ECK120023603	ECK120009870	ECK120011222	inhibition							ECK12
+ECK125160765	ECK125140670	ECK120030215	ECK120011222	activation							ECK12
+ECK125160766	ECK125140670	ECK125095431	ECK120011222	activation							ECK12
+ECK125160767	ECK125140670	ECK120022001	ECK120011222	activation							ECK12
+ECK125160768	ECK125140670	ECK120010991	ECK120011222	activation							ECK12
+ECK125160769	ECK125140670	ECK120010241	ECK120011222	activation							ECK12
+ECK125160770	ECK125140670	ECK125135020	ECK120011222	activation				ppGpp regulates the expression of the <i>grxB</i> gene together with &sigma;<sup>S</sup> and &sigma;<sup>70</sup> during the exponential and stationary phases, respectively |CITS:[11889138]|.			ECK12
+ECK125160771	ECK125140670	ECK120010187	ECK120011222	activation							ECK12
+ECK125160772	ECK125140670	ECK120010565	ECK120011222	activation							ECK12
+ECK125160773	ECK125140670	ECK120034384	ECK120011222	activation				<i>leuO</i> expression is induced indirectly via an increase in the cellular Lrp level in response to a ppGpp level increase, which is caused by the slow growth rate as cells enter stationary phase |CITS:[11006083]|.			ECK12
+ECK125160774	ECK125140670	ECK120010552	ECK120011222	activation				<i>ftsQ</i>p1, <i>ftsZ</i>p4, and <i>ftsZ</i>p3 are attractive candidates for ppGpp activation, since they exhibit inverse growth rate regulation. Even so, the effect of ppGpp on the <i>ftsZ</i> gene could be indirect |CITS:[8407846]|.			ECK12
+ECK125160775	ECK125140670	ECK120010553	ECK120011222	activation				<i>ftsQ</i>p1, <i>ftsZ</i>p4, and <i>ftsZ</i>p3 are attractive candidates for ppGpp activation, since they exhibit inverse growth rate regulation. Even so, the effect of ppGpp on the <i>ftsZ</i> gene could be indirect |CITS:[8407846]|.			ECK12
+ECK125160776	ECK125140670	ECK120010260	ECK120011222	activation				<i>ftsQ</i>p1, <i>ftsZ</i>p4, and <i>ftsZ</i>p3 are attractive candidates for ppGpp activation, since they exhibit inverse growth rate regulation. Even so, the effect of ppGpp on the <i>ftsZ</i> gene could be indirect |CITS:[8407846]|.			ECK12
+ECK125160777	ECK125140670	ECK120034549	ECK120011222	inhibition							ECK12
+ECK125160778	ECK120023603	ECK120034549	ECK120011222	inhibition							ECK12
+ECK125160779	ECK125140670	ECK120029520	ECK120011222	activation				The positive effect of ppGpp on RelA is through its effect on the <i>k</i><sub>cat'</sub> and not the <i>K<sub>m</sub></i>. This effect is amplified by ribosomal protein L11 and deacylated RNA<sup>Phe</sup> and mRNA |CITS:[22907080]|.			ECK12
+ECK125162254	ECK125140670	ECK120010423	ECK120011222	activation							ECK12
+ECK125162256	ECK125140670	ECK120010424	ECK120011222	activation							ECK12
+ECK125162257	ECK125140670	ECK120010533	ECK120011222	inhibition							ECK12
+ECK125162260	ECK125140671	ECK125160782	ECK120011222	inhibition				ppGpp and its cofactor, DksA, inhibit in two ways the transcription of <i>fabH</i>p: 1) they directly inhibit its transcription, and 2) they inhibit <i>fadR</i> expression, which is an activator of the <i>fabHDG</i> operon |CITS:[23772072]|.			ECK12
+ECK125162261	ECK125140671	ECK120049205	ECK120011222	inhibition							ECK12
+ECK125228876	ECK125140670	ECK120034397	ECK120011222	inhibition				Upon amino acid starvation, <i>rpsB</i>p is negatively regulated by ppGpp due to the presence of the GC-rich discriminator, whose substitution for the AT-rich element abolished stringent control |CITS:[25365487]|.			ECK12
+ECK125228877	ECK125140671	ECK125203431	ECK120011222	inhibition							ECK12
