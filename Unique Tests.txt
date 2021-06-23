@@ -1,0 +1,685 @@
+?-gal activity - wt vs TF mutant
+?-galactosidase - Wild type vs. TF mutant
+?-galactosidase activity assay
+?-galactosidase activity assay ?upc2?ecm22 with Upc2 vs Upc2 with deletion of the ligand-binding domain
+?-galactosidase activity assay ( lacZ reporter fused to the promoter region of YEp367 carrying pERG11)
+?-galactosidase activity assay ( lacZ reporter fused to the promoter region of YEp367 carrying pERG3)
+?-galactosidase activity assay ( lacZ reporter fused to the promoter region of Yep367 carrying pFHN1)
+?-galactosidase activity assay ( lacZ reporter fused to the promoter region of YEP367 carrying pFLO11)
+?-galactosidase activity assay ( lacZ reporter fused to the promoter region of YEp367 carrying pNCP1)
+?-galactosidase activity assay ( lacZ reporter fused to the promoter region of YEp367 carrying pNPR1)
+?-galactosidase activity assay ( lacZ reporter fused to the promoter region of YEp367 carrying pPRR2)
+?-galactosidase assay
+?-galactosidase assay Wt and Dyap1
+?-galactosidase assay (Wt vs. ste12 overexpression)
+?-galactosidase assay (Wt vs. sut1 overexpression)
+?-galactosidase assay (Wt vs. sut1Dsut2 double mutant)
+?-galactosidase assay (Wt vs. sut2 overexpression)
+?-galactosidase assay (Wt vs. TF mutant)
+(RT)-PCR
+ ?-galactosidase assay (Wt vs. sut1Dsut2 double mutant)
+Î²-galactosidase activity assays - wt versus haa1DELTA mutant
+Î²-galactosidase activity WT vs TF mutant
+Î²-galactosidase assay - wt vs TF mutant
+Î²-galactosidase assays
+Î²â€Galactosidase activity assay
+Î²â€galactosidase assay - wt vs TF mutant
+ß-Galactosidase assays
+2D electrophoresis (complemented pdr1DELTA mutant vs TF deletion mutant)
+2D electrophoresis (mutant overexpressing PDR1 vs pdr3DELTA mutant overexpressing PDR1)
+2D electrophoresis (pdr1DELTA deletion mutant vs pdr1DELTApdr3DELTA double mutant)
+2D electrophoresis (pdr3DELTA mutant overexpressing PDR1 vs pdr1DELTApdr3DELTA double mutant)
+2D electrophoresis (TF overexpression mutant vs TF deletion mutant)
+2D electrophoresis (WT vs msn2DELTAmsn4DELTA double mutant)
+2D electrophoresis (WT vs msn2DELTAmsn4DELTAyap1DELTA triple mutant)
+alfa-gal - wt vs. target promoter mutant
+ALFA-galactosidase Assay - wt vs TF mutant
+alpha-galactosidase - wild type vs tet-AUR1
+Anti-GFP immunoblots
+ATAC-PCR (WT vs TF deletion mutant)
+ATAC-PCR (WT vs TF overexpression mutant)
+Barseq after FACS after mRNA FISH (BFF)
+BETA-galactosidase
+BETA-galactosidase (WT vs TF double mutant mig1DELTA mig2DELTA)
+BETA-galactosidase (WT vs TF double mutant mot3DELTA rfx1DELTA)
+BETA-galactosidase (WT vs TF double mutant mot3DELTA rox1DELTA)
+BETA-galactosidase (WT vs TF double mutant nrg1DELTA nrg2DELTA)
+BETA-galactosidase (WT vs TF double mutant rox1DELTA rfx1DELTA)
+BETA-galactosidase (WT vs TF mutant)
+BETA-galactosidase (WT vs TF quadruple mutant nrg1DELTA nrg2DELTA mig1DELTA mig2DELTA)
+BETA-galactosidase (WT vs TF triple mutant rox1DELTA rfx1DELTA mot3DELTA)
+BETA-galactosidase acitivty
+BETA-galactosidase activity - wt vs ino2 opi1 mutant
+beta-galactosidase activity - wt vs TF mutant
+BETA-Galactosidase activity assay (aft1DELTAaft2DELTA double mutant vs aft1DELTAaft2DELTA double mutant overexpressing AFT2)
+BETA-Galactosidase activity assay (cat8DELTA deletion mutant vs cat8DELTAmig1DELTA double mutant)
+BETA-Galactosidase activity assay (hem1DELTA vs hem1DELTAhap1DELTA double mutant)
+BETA-Galactosidase activity assay (snf1DELTA mutant vs snf1DELTAnrg1DELTA double mutant)
+BETA-Galactosidase activity assay (snf1DELTA mutant vs snf1DELTAnrg1DELTAnrg2DELTA triple mutant)
+BETA-Galactosidase activity assay (snf1DELTA mutant vs snf1DELTAnrg2DELTA double mutant)
+BETA-Galactosidase activity assay (WT vs aft1DELTAaft2DELTA double mutant)
+BETA-Galactosidase activity assay (WT vs ecm22DELTAupc2DELTA double mutant)
+BETA-Galactosidase activity assay (WT vs TF deletion mutant)
+BETA-Galactosidase activity assay (WT vs TF overexpression)
+BETA-Galactosidase activity assay (WT vs UPC2 G888A substitution
+BETA-Galactosidase activity assay (WT vs UPC2 G888D substitution)
+BETA-Galactosidase activity assay (WT(SRE-lacZ) vs ecm22DELTAupc2DELTA double mutant (SRE-lacZ))
+BETA-Galactosidase activity assay (WT(SRE-lacZ) vs TF deletion mutant (SRE-lacZ))
+BETA-galactosidase assay -  wild-type vs TF deletion mutant
+BETA-galactosidase assay - site-directed mutagenesis on target promoter
+BETA-galactosidase assay - site-directed mutagenesis on target promoter + TF deletion
+BETA-galactosidase assay - wt vs ecm22 erg3 mutant
+BETA-galactosidase assay - wt vs ecm22 upc2 erg3 mutant
+BETA-galactosidase assay - wt vs ecm22 upc2 mutant
+BETA-galactosidase assay - wt vs TF deletion mutant
+BETA-galactosidase assay - wt vs TF mutant
+BETA-galactosidase assay - wt vs TF mutant (mutant ndt80  binding sites)
+BETA-galactosidase assay - wt vs upc2 erg3 mutant
+BETA-galactosidase assay - wt vs upc2 mutant (G888A)
+BETA-galactosidase assay - wt vs upc2 mutant (G888D)
+BETA-galactosidase assay - wt vs upc2 mutant (G888E)
+BETA-galactosidase assay - wt vs upc2 mutant (G888N)
+BETA-galactosidase assay - wt vs upc2 mutant (G888Q)
+BETA-galactosidase assay - wt vs upc2 mutant (G888R)
+BETA-galactosidase assay - wt vs upc2 mutant (G888V)
+BETA-Galactosidase assay (nrg1DELTA vs nrg1DELTArim101DELTA double mutant)
+BETA-Galactosidase assay (rim101DELTA vs nrg1DELTArim101DELTA double mutant)
+BETA-Galactosidase assay (rim101DELTA vs rim101DELTAnrg1DELTA double mutant)
+BETA-Galactosidase assay (smp1DELTA vs smp1DELTArim101DELTA double mutant)
+BETA-Galactosidase assay (WT vs pip2DELTAoaf1DELTA double mutant)
+BETA-Galactosidase assay (WT vs TF deletion mutant)
+BETA-Galactosidase assay wt vs. TF mutant
+beta-galactosidase assays
+CAT - Wild type vs. Mutant promoter region
+CAT - Wild type vs. TF mutant
+CAT - wt vs TF mutant
+CAT - WT vs. TF mutant
+CAT activity wt vs Mutant promoter region
+Cat reporter wt ws Mutant promoter region
+Cat reporter wt ws TF mutant
+ChIP
+ChiP - Wild Type vs. Memory recruitment sequence mutant
+ChIP (IFH1 was C-terminally tagged by a 13xmyc epitope)
+ChIP (Mot3-Myc18)
+ChIP analysis
+Chip assay
+ChIP assay - control vs oleate induction
+ChIP assay - high vs low levels inositol+choline
+ChIP assay - inhibition of Opi1 binding to INO1 and CHO2 promoters
+ChIP assay - Wild-type vs. TF deletion mutant
+ChIP assay (Ash1-myc)
+ChIP assay (Dsnf1 with pGADT7-Snf1-6xmyc)
+ChIP assay (Hot-HA)
+ChIP assay (Hot1-GFP)
+ChIP assay (Hot1-HA) Wt versus Dcbc1
+ChIP assay (Mbp1-HA)
+ChIP assay (Mbp1-myc)
+ChIP assay (Mbp1-myc)/qPCR wt versus TF mutant
+ChIP assay (Mig1-GFP)
+ChIP assay (Mig2-GFP)
+ChIP assay (Swi4-HA)
+ChIP assay (Swi4-myc)
+ChIP assay (Swi4-myc)/qPCR wt versus TF mutant
+ChIP assay Oaf1 binding to target promoters (POT1 and PIP2) - Wild-type vs OAF3 deletion mutant
+ChIP assay PIP2 binding to target promoters (POT1 and PIP2) - Wild-type vs OAF1 deletion mutant
+ChIP with ufd1-1 inactivation
+ChIP-Chip
+ChIP-chip - TF overexpression
+ChIP-exo
+Chip-on-chip
+ChIP-PCR
+ChIP-qPCR
+ChIP-qPCR - TF overexpression
+ChIP-qPCR (Gnc4-Flag)
+ChIP-qPCR (Swi4-V5)
+ChIP-seq
+Chromatin immunoprecipitation assays
+Confocal microscopy ( bmh1DELTA vs bmh1DELTA+TFoverIndirect)
+Confocal microscopy ( WT vs TF overIndirect)
+Crosslinking chromatin immunoprecipitation
+Dam-Rpn4 interaction with the target gene (measuring level of methylation of  the target promoter)
+DamID system Wild-type vs. Mutated bingind site
+Determination of promoter strength using luciferase
+DNA filter array (WT vs TF deletion mutant)
+DNA footprinting
+DNA footprinting - Wild type vs. target promoter mutant
+DNA microarray
+DNA microarray (Pdr3-7 gain-of-function mutant vs TF deletion mutant)
+DNA microarray (WT v s TF deletion mutant)
+DNA microarray (WT vs pho85DELTApho4DELTA double mutant)
+DNA microarray (WT vs TF deletion mutant)
+DNA microarray (WT vs TF overexpression)
+DNA microarray (WT vs upc2-1 gain-of-function mutant)
+DNA microarray (WT vs yox1DELTAyhp1DELTA double mutant)
+DNase footprinting
+Electrophoretic mobility shift assays (EMSAs)
+EMSA
+EMSA (PHM8 promoter & mutated PHM8 promoter and Gcn4p)/ Lac-Z fusion (wt vs TF mutant)/ RT-qPCR (Wt vs TF mutant)
+EMSA (WT  vs mutated binding site)
+EMSA (WT vs pip2DELTAoaf1DELTA double mutant)
+EMSA (WT vs TF deletion mutant)
+EMSA (WT vs yox1DELTAyhp1DELTA double mutant))
+EMSA / ChIP assay (Reb1-3X-FLAG)
+Enzymatic measurements
+Enzyme activity - Wild type vs. TF mutant
+Enzyme activity - WT vs. mutant promoter region
+Enzyme activity - wt vs. TF mutant
+Enzyme activity - wt ws. TF mutant
+Enzyme activity -WT vs. mutant promoter region
+Enzyme activity wt vs TF mutant
+Flow Cytometry
+Flow-cytometry of HSP12-GFP expression - Wild type  vs. TF mutant
+Flow-cytometry of TG promoter-YFP expression - Wild type  vs. TF overexpression
+Fluorescence - Wild Type vs. TF Binding site deletion
+Fluorescence anisotropy
+FRAP
+Gene overexpression
+GFP - wt vs TF overexpression
+GFP - wt vs. TF mutant
+GFP - wt vs. TF overexpression
+GFP expression - wt vs TF mutant
+GFP fluorescence - wt vs TF mutant
+GFP fusion - Wild type vs TF mutant
+GFP reporter (WT vs GAT1(C331Y))
+GFP reporter (WT vs GAT1(R345G))
+GFP reporter (WT vs GAT1(W321L))
+GFP reporter (WT vs TF mutant)
+GFP reporter assay (WT vs TF deletion mutant)
+GFP wt vs TF overexpression
+GFP-reporter expression
+GFP-tagged protein expression Wild-Type vs. TF mutant
+Gus reporter wt vs TF mutant
+HaloTag-TF co-localization
+High-density membrane hybridization - wt vs. TF mutant
+High-density micro-array - wt vs. TF mutant
+HIS3 fusion gene - wt vs. TF mutant
+His3-reporter - wt vs. TF mutant
+Idh1-GFP
+Immunoblot
+Immunoblot - Wild type vs. TF deletion mutant
+Immunoblot analysis
+Immunoblot WT vs ?rim101
+Immunoblotting
+in vivo ChIP analysis
+In vivo footprinting wt vs TF mutant vs TF overexpressing mutant
+In vivo UV-photofootprinting
+Invertase activity (transformants expressing VP16 vs transformants expressing VP16-Nrg1)
+Invertase activity (transformants expressing VP16 vs transformants expressing VP16-Nrg2)
+Invertase activity wt vs TF mutant
+Invertase activity wt vs TF overexpression
+iTRAQ - Wild type vs TF mutant
+LacZ
+lacZ - gal4put3 double mutant vs GAL4 expression
+lacZ - gal4put3 double mutant vs GAL4 overexpression
+lacZ - mutant vs TF mutant
+LacZ - Wild type vs. target promoter mutant
+LacZ - Wild type vs. TF deletion mutant
+LacZ - Wild type vs. TF everexpression
+lacZ - wt vs mutant promoter region
+LacZ - wt vs TF mutant
+LacZ - wt vs TF overexpression
+lacZ - wt vs. Mutant promoter region
+lacZ - wt vs. TF mutant
+lacZ - wt vs. TF overexpression
+lacZ CTH2 promoter fusion - Wild-type vs TF mutant
+LacZ Expression - Wild-type vs. TF deletion mutant
+LacZ fusion - TF overexpression (absence of pheromone) vs TF overexpression (pheromone)
+LacZ fusion - Wild type promoter vs mutated promoter
+LacZ fusion - Wild type vs TF mutant
+lacZ reporter assays
+lacZ wt TF mutant
+lacZ wt vs hyperactive TF
+lacZ wt vs TF mutant
+lacZ wt vs TF overexpression
+LacZ wt vs TF overexpression mutant
+LacZ: WT vs TF mutant
+Library of genomic binding sites
+luciferase - wt vs. TF mutant
+Luciferase assay (PMSH2-luciferase)
+Luciferase assay (WT vs TF deletion mutant)
+Luciferase fusion - Wild type vs TF mutant
+Luciferase wt vs Mutant promoter region
+Luciferase wt vs TF mutant
+MBP1
+mCherry fluorescence - Wild type vs N-terminus fluorescence tag fusion
+microarray
+Microarray - Wild type vs heterozygous TF deletion mutant
+Microarray - Wild-type vs TF mutant
+Microarray - WT vs TF mutant
+Microarray (WT vs TF deletion mutant)
+Microarray analysis
+Microarray analysis - gap1 mutant vs gap1 stp1 stp2  triple deletion mutant
+Microarray analysis - pdr1pdr3 double mutant vs pdr1-3 allele expression
+Microarray analysis - pdr1pdr3 double mutant vs pdr3-7 allele expression
+Microarray analysis - wt (YRR1-GAD) vs TF mutant
+Microarray analysis - wt vs aft1aft2 mutant
+Microarray analysis - wt vs GAL4 overexpression
+Microarray analysis - wt vs gcr1 deletion mutant
+Microarray analysis - wt vs gcr2 deletion mutant
+Microarray analysis - wt vs msn2 msn4 double mutant
+Microarray analysis - wt vs sfp1DELTA/DELTA
+Microarray analysis - wt vs TF (FKH1/2) double deletion mutant
+Microarray analysis - wt vs TF (FKH1/2) double deletion mutant (expression oscilation during cell cycle)
+Microarray analysis - wt vs TF (FKH1/2) double mutant
+Microarray analysis - wt vs TF chimera
+Microarray analysis - wt vs TF deletion mutant
+Microarray analysis - wt vs TF mutant
+Microarray analysis - wt vs TF overexpression
+Microarray analysis - wt vs UAS-GAL1- IFH10
+Microarray analysis - wt vs UAS-GAL1- IFH100
+Microarray analysis - wt vs UAS-GAL1- IFH101
+Microarray analysis - wt vs UAS-GAL1- IFH102
+Microarray analysis - wt vs UAS-GAL1- IFH103
+Microarray analysis - wt vs UAS-GAL1- IFH104
+Microarray analysis - wt vs UAS-GAL1- IFH105
+Microarray analysis - wt vs UAS-GAL1- IFH106
+Microarray analysis - wt vs UAS-GAL1- IFH107
+Microarray analysis - wt vs UAS-GAL1- IFH108
+Microarray analysis - wt vs UAS-GAL1- IFH109
+Microarray analysis - wt vs UAS-GAL1- IFH11
+Microarray analysis - wt vs UAS-GAL1- IFH110
+Microarray analysis - wt vs UAS-GAL1- IFH111
+Microarray analysis - wt vs UAS-GAL1- IFH112
+Microarray analysis - wt vs UAS-GAL1- IFH113
+Microarray analysis - wt vs UAS-GAL1- IFH114
+Microarray analysis - wt vs UAS-GAL1- IFH115
+Microarray analysis - wt vs UAS-GAL1- IFH116
+Microarray analysis - wt vs UAS-GAL1- IFH117
+Microarray analysis - wt vs UAS-GAL1- IFH118
+Microarray analysis - wt vs UAS-GAL1- IFH119
+Microarray analysis - wt vs UAS-GAL1- IFH12
+Microarray analysis - wt vs UAS-GAL1- IFH120
+Microarray analysis - wt vs UAS-GAL1- IFH121
+Microarray analysis - wt vs UAS-GAL1- IFH122
+Microarray analysis - wt vs UAS-GAL1- IFH123
+Microarray analysis - wt vs UAS-GAL1- IFH124
+Microarray analysis - wt vs UAS-GAL1- IFH125
+Microarray analysis - wt vs UAS-GAL1- IFH126
+Microarray analysis - wt vs UAS-GAL1- IFH127
+Microarray analysis - wt vs UAS-GAL1- IFH128
+Microarray analysis - wt vs UAS-GAL1- IFH129
+Microarray analysis - wt vs UAS-GAL1- IFH13
+Microarray analysis - wt vs UAS-GAL1- IFH130
+Microarray analysis - wt vs UAS-GAL1- IFH131
+Microarray analysis - wt vs UAS-GAL1- IFH132
+Microarray analysis - wt vs UAS-GAL1- IFH133
+Microarray analysis - wt vs UAS-GAL1- IFH134
+Microarray analysis - wt vs UAS-GAL1- IFH135
+Microarray analysis - wt vs UAS-GAL1- IFH136
+Microarray analysis - wt vs UAS-GAL1- IFH137
+Microarray analysis - wt vs UAS-GAL1- IFH14
+Microarray analysis - wt vs UAS-GAL1- IFH15
+Microarray analysis - wt vs UAS-GAL1- IFH16
+Microarray analysis - wt vs UAS-GAL1- IFH17
+Microarray analysis - wt vs UAS-GAL1- IFH18
+Microarray analysis - wt vs UAS-GAL1- IFH19
+Microarray analysis - wt vs UAS-GAL1- IFH20
+Microarray analysis - wt vs UAS-GAL1- IFH21
+Microarray analysis - wt vs UAS-GAL1- IFH22
+Microarray analysis - wt vs UAS-GAL1- IFH23
+Microarray analysis - wt vs UAS-GAL1- IFH24
+Microarray analysis - wt vs UAS-GAL1- IFH25
+Microarray analysis - wt vs UAS-GAL1- IFH26
+Microarray analysis - wt vs UAS-GAL1- IFH27
+Microarray analysis - wt vs UAS-GAL1- IFH28
+Microarray analysis - wt vs UAS-GAL1- IFH29
+Microarray analysis - wt vs UAS-GAL1- IFH30
+Microarray analysis - wt vs UAS-GAL1- IFH31
+Microarray analysis - wt vs UAS-GAL1- IFH32
+Microarray analysis - wt vs UAS-GAL1- IFH33
+Microarray analysis - wt vs UAS-GAL1- IFH34
+Microarray analysis - wt vs UAS-GAL1- IFH35
+Microarray analysis - wt vs UAS-GAL1- IFH36
+Microarray analysis - wt vs UAS-GAL1- IFH37
+Microarray analysis - wt vs UAS-GAL1- IFH38
+Microarray analysis - wt vs UAS-GAL1- IFH39
+Microarray analysis - wt vs UAS-GAL1- IFH40
+Microarray analysis - wt vs UAS-GAL1- IFH41
+Microarray analysis - wt vs UAS-GAL1- IFH42
+Microarray analysis - wt vs UAS-GAL1- IFH43
+Microarray analysis - wt vs UAS-GAL1- IFH44
+Microarray analysis - wt vs UAS-GAL1- IFH45
+Microarray analysis - wt vs UAS-GAL1- IFH46
+Microarray analysis - wt vs UAS-GAL1- IFH47
+Microarray analysis - wt vs UAS-GAL1- IFH48
+Microarray analysis - wt vs UAS-GAL1- IFH49
+Microarray analysis - wt vs UAS-GAL1- IFH50
+Microarray analysis - wt vs UAS-GAL1- IFH51
+Microarray analysis - wt vs UAS-GAL1- IFH52
+Microarray analysis - wt vs UAS-GAL1- IFH53
+Microarray analysis - wt vs UAS-GAL1- IFH54
+Microarray analysis - wt vs UAS-GAL1- IFH55
+Microarray analysis - wt vs UAS-GAL1- IFH56
+Microarray analysis - wt vs UAS-GAL1- IFH57
+Microarray analysis - wt vs UAS-GAL1- IFH58
+Microarray analysis - wt vs UAS-GAL1- IFH59
+Microarray analysis - wt vs UAS-GAL1- IFH60
+Microarray analysis - wt vs UAS-GAL1- IFH61
+Microarray analysis - wt vs UAS-GAL1- IFH62
+Microarray analysis - wt vs UAS-GAL1- IFH63
+Microarray analysis - wt vs UAS-GAL1- IFH64
+Microarray analysis - wt vs UAS-GAL1- IFH65
+Microarray analysis - wt vs UAS-GAL1- IFH66
+Microarray analysis - wt vs UAS-GAL1- IFH67
+Microarray analysis - wt vs UAS-GAL1- IFH68
+Microarray analysis - wt vs UAS-GAL1- IFH69
+Microarray analysis - wt vs UAS-GAL1- IFH71
+Microarray analysis - wt vs UAS-GAL1- IFH72
+Microarray analysis - wt vs UAS-GAL1- IFH73
+Microarray analysis - wt vs UAS-GAL1- IFH74
+Microarray analysis - wt vs UAS-GAL1- IFH75
+Microarray analysis - wt vs UAS-GAL1- IFH76
+Microarray analysis - wt vs UAS-GAL1- IFH77
+Microarray analysis - wt vs UAS-GAL1- IFH78
+Microarray analysis - wt vs UAS-GAL1- IFH79
+Microarray analysis - wt vs UAS-GAL1- IFH80
+Microarray analysis - wt vs UAS-GAL1- IFH81
+Microarray analysis - wt vs UAS-GAL1- IFH82
+Microarray analysis - wt vs UAS-GAL1- IFH83
+Microarray analysis - wt vs UAS-GAL1- IFH84
+Microarray analysis - wt vs UAS-GAL1- IFH85
+Microarray analysis - wt vs UAS-GAL1- IFH86
+Microarray analysis - wt vs UAS-GAL1- IFH87
+Microarray analysis - wt vs UAS-GAL1- IFH88
+Microarray analysis - wt vs UAS-GAL1- IFH89
+Microarray analysis - wt vs UAS-GAL1- IFH9
+Microarray analysis - wt vs UAS-GAL1- IFH90
+Microarray analysis - wt vs UAS-GAL1- IFH91
+Microarray analysis - wt vs UAS-GAL1- IFH92
+Microarray analysis - wt vs UAS-GAL1- IFH93
+Microarray analysis - wt vs UAS-GAL1- IFH94
+Microarray analysis - wt vs UAS-GAL1- IFH95
+Microarray analysis - wt vs UAS-GAL1- IFH96
+Microarray analysis - wt vs UAS-GAL1- IFH97
+Microarray analysis - wt vs UAS-GAL1- IFH98
+Microarray analysis - wt vs UAS-GAL1- IFH99
+"Microarray analysis (WT (msn2/4DELTA, Hsf1) vs truncated TF (msn2/4DELTA, hsf1(1-583))"
+"Microarray analysis (WT (msn2/4DELTA, Hsf1) vs truncated TF (msn2/4DELTA, hsf1(66-833))"
+Microarray analysis (WT vs TF mutant)
+Microarray analysis (WT vs TF overexpression strain)
+Microarray analysis (WT vs TF overexpression)
+Microarray analysis hot1? and hot1?/HOT1 strains
+Microarray analysis Wt versus Drph1
+Microarray Analysis WT vs TF deletion mutant
+Microarray rph1-H235A vs. Wt
+Microarray TF mutant vs. Wt
+Microarray Wt vs. TF mutant
+Microarray- wt vs TF mutant
+Microarrays - cells expressing Msn2A6
+Microarrays - Wild type Mcherry TF vs. TF deletion mutant
+Microarrays - Wild type vs TF mutant
+Microarrays - Wild type vs. TF deletion mutant
+Microarrays - wild type vs. TF ectopic induction
+Microarrays - Wild type vs. TF mutant
+Microarrays - Wild type vs. TF overexpression
+Microarrays hybridization - wt vs TF GOF mutant
+Mini-array analysis - wt vs TF mutant
+Miniarrays
+MOT3
+mRNA amplification - Wild-type vs TF deletion mutant
+mRNA decay assays - Wild type vs TF mutant
+mRNA sequencing: WT vs TF mutant
+Multiplex calling card analysis
+NAC-seq (nascent mRNA-sequencing)
+Nanostring quantification of gene expression - wild type vs. TF mutant
+Net-seq
+Northern - wt MKK1* vs. TF mutant MKK1*
+Northern - wt vs binding site promoter mutant
+Northern - wt vs TF mutant
+Northern - wt vs. Mutant promoter region
+Northern - wt vs. TF gain-of-function mutant
+Northern - wt vs. TF mutant
+Northern - WT vs. TF overexpression
+Northern Analysis
+Northern Blot
+Northern blot - Wild type vs TF mutant
+Northern blot - Wild-type vs TF mutant
+Northern Blot - Wild-type vs. TF deletion mutant
+Northern blot - wt vs aft1 aft2 mutant
+Northern blot - wt vs GAL1-SFP1
+Northern blot - wt vs hog1 msn2 msn4 mutant
+Northern blot - wt vs mcm1 deletion mutant(Residues from 2 to 17  were deleted).
+Northern blot - wt vs msn1 msn2 msn4 mutant
+Northern blot - wt vs sfl1 nrg1 deletion mutant
+Northern blot - wt vs TF mutant
+Northern blot - wt vs TF overexpression
+Northern Blot - wt vs. TF deletion mutant
+Northern blot - wt vs. TF mutant
+Northern blot - wt. vs TF mutant
+Northern blot - wt. vs TF over-expression
+Northern blot (aft1DELTA deletion mutant vs aft1DELTAaft2DELTA double mutant)
+Northern blot (aft1DELTAaft2DELTA double mutant vs aft1DELTAaft2DELTA double mutant overexpressing AFT2)
+Northern blot (gat1DELTAdal80DELTA double mutant vs gat1DELTAgln3DELTA double mutant)
+Northern blot (ure2DELTA mutant vs ure2DELTAdal80DELTA double mutant)
+Northern blot (ure2DELTA mutant vs ure2DELTAgat1DELTA double mutant)
+Northern blot (ure2DELTA mutant vs ure2DELTAgln3DELTA double mutant)
+Northern blot (WT vs aca1DELTAaca2DELTAsko1DELTA triple mutant)
+Northern blot (WT vs ace1DELTAswi5DELTA double deletion mutant)
+Northern blot (WT vs aft1DELTAaft2DELTA double mutant)
+Northern blot (WT vs ecm22DELTAupc2DELTA double mutant)
+Northern blot (WT vs erg2DELTAmot3DELTA double mutant)
+Northern blot (WT vs erg6DELTAmot3DELTA double mutant)
+Northern blot (WT vs msn2DELTAmsn4DELTA double mutant)
+Northern blot (WT vs pGAL1-UPC2)
+Northern blot (WT vs TF deletion mutant)
+Northern Blot (WT vs TF mutant)
+Northern blot (WT vs TF overexpression)
+Northern blot (WT vs TF overIndirect)
+Northern blot (WT vs UPC2 G888D substitution)
+Northern blot (WT vs upc2-1 gain-of-function mutant)
+Northern blot analysis - wt vs pdr1 pdr3 double mutant
+Northern blot analysis - wt vs TF mutant
+Northern Blot for FLO11 - Wild-type vs. TF deletion mutant
+Northern Blot wt vs TF (FKH1/2) double deletion mutant (oscilation during cell cycle)
+Northern Blot Wt vs. TF mutant
+Northern Bloting
+Northern blotting
+Northern Blotting  - wt vs TF mutant
+Northern blotting - Wild type vs mutated TF
+Northern blotting - Wild type vs TF mutant
+Northern blotting - Wild type vs Tfmutant overexpressing KDX1
+Northern blotting - Wild type vs. TF mutant
+Northern blotting - wt vs TF mutant
+Northern blotting - wt vs TFBS mutant
+Northern Tf mutant vs TF overexpressing mutant
+Northern vs TF overexpression
+Northern wt vs hyperactive TF
+Northern wt vs TF mutant
+Northern wt vs TF overexpression
+Northern wt vs TF overexpression mutant
+Northern-blot
+Oligonucleotide affinity chromatography
+One-hybrid assay
+Overexpression of TF
+PAH1-lacZ reporter gene assay
+PBM
+PolII ChIP-seq - wt vs. TF mutant
+primer extension - WT vs. mutant promoter region
+Primer extension (WT vs GCR1 without leucine zipper motif)
+Primer extension (WT vs gcr1DELTAgcr2DELTA double deletion mutant)
+Primer extension (WT vs TF deletion mutant)
+Primer Extention - wt vs. TF mutant
+promoter assay
+Promoter Fluorescence intensity: WT vs TF mutant
+Protemics
+Proteomics - Wild type vs. TF mutant
+Proteomics - wt vs TF mutant
+Proteomics - wt vs. TF mutant
+Q-RTPCR
+qChIP
+qPCR
+qPCR-ChIP
+qRT-PCR
+qRT-PCR - Wild type vs GOF TF mutant
+qRT-PCR - Wild type vs TF GOF mutant
+qRT-PCR - Wild type vs TF mutant
+qRT-PCR - Wild type vs TFBS mutant
+qRT-PCR - Wild type vs. Prion form
+qRT-PCR - Wild type vs. TF binding site mutation
+qRT-PCR - Wild type vs. TF deletion mutant
+qRT-PCR - wild-type vs TF overexpression
+qRT-PCR - wt vs TF  overIndirect
+qRT-PCR - wt vs TF mutant
+qRT-PCR ( WT rho- vs rho-+pdr3DELTA)
+qRT-PCR ( WT rho- vs tam41DELTA+pdr3DELTA)
+qRT-PCR ( WT rho0 vs rho0+pdr3DELTA)
+qRT-PCR ( WT vs TF deleted mutant)
+qRT-PCR ( WT vs TF deletion mutant + PSD1overIndirect)
+qRT-PCR (Haa1-Myc13 vs Haa1(1-130))
+qRT-PCR (Haa1-Myc13 vs Haa1(1-230))
+qRT-PCR (Haa1-Myc13 vs Haa1(1-483))
+qRT-PCR (Haa1-Myc13 vs Haa1(C11S)-Myc13)
+qRT-PCR (Haa1-Myc13 vs Haa1(DELTAZBD (DELTA6-40))-Myc13)
+qRT-PCR (WT vs TF deletion mutant)
+qRT-PCR (WT vs TF mutant)
+"qRT-PCR Strain with Truncated Gat1 (pYX212-Gat1p1-375, S360A, S361A) Vs Wild-type"
+qRT-PCR Wt versus TF mutant
+qRT-PCR WT vs OE mutant
+qRT-PCR WT vs TF deletion mutant
+qRT-PCR; WT vs fkh1DELTA
+qRT-PCR; WT vs fkh1DELTAfkh2DELTA
+qRT-PCR; WT vs fkh2DELTA
+qRTâ€PCR - wt vs TF mutant
+Quantigene Plex Assay - Wild type vs. TF mutant
+Quantitative Fluorescence Microscopy - Wild type vs TF mutant
+Quantitative Northern Blot
+R-SGA - Wild type vs TF mutant
+real-time PCR
+real-time RT-PCR
+Ribo-seq: WT vs TF mutant
+RNA FISH
+RNA-seq
+"RNA-seq                                      (authors only refer Total RNAs were extracted with RNeasy Mini Kit (QIAGEN, Germany), cDNA libraries construction and sequencing on Illumina HiSeq 2500)."
+RNA-seq - ER stress vs TF ectopic expression (absence of ER stress)
+RNA-Seq - wild type vs mutated TF
+RNA-Seq - Wild type vs TF mutant
+RNA-Seq - wild type vs TF mutant strain
+RNA-seq - Wild type vs. TF deletion mutant
+RNA-seq - wt versus TF overIndirect strain
+RNA-seq - wt vs TF mutant
+RNA-Seq - wt vs. TF mutant
+RNA-Seq - WT vs. TF overIndirect
+RNA-seq ( WT vs pdr3DELTA + PSD1 overIndirect)
+RNA-Seq (WT vs GAT1(C331Y))
+RNA-Seq (WT vs GAT1(R345G))
+RNA-Seq (WT vs GAT1(W321L))
+RNA-seq (WT vs TF deletion mutant)
+RNA-Seq (WT vs TF mutant)
+RNA-seq (WT Yrr1 (isoleucine at position 775) vs Yrr1 mutant (I775E))
+RNA-seq (WT Yrr1 (isoleucine at position 775) vs Yrr1 mutant (I775T))
+RNA-seq (Yrr1 mutant (I775E) vs Yrr1 mutant (I775T))
+RNA-seq WT vs PHO4SA12346 allele (constitutive strong allele)
+RNA-seq WT vs PHO84C
+RNAse protection assay - WT vs. TF overexpression
+RT- PCR - wt vs gcr1 deletion mutant
+RT- PCR - wt vs gcr2 deletion mutant
+RT- PCR - wt vs TF deletion mutant
+RT-PCR
+RT-PCR  - wt vs TF mutant
+RT-PCR - Wild type promoter vs mutated binding sites
+RT-PCR - Wild type vs complemented TF mutant
+RT-PCR - Wild type vs Damp TF
+RT-PCR - Wild type vs mutated TF
+RT-PCR - Wild type vs TF mutant
+RT-PCR - wild type vs TF mutant strain
+RT-PCR - Wild type vs TF overexpression
+RT-PCR - Wild type vs. TF deletion mutant
+RT-PCR - Wild type vs. TF overexpression
+RT-PCR - Wild-type vs TF mutant
+RT-PCR - Wild-type vs TF overexpression
+RT-PCR - wt vs binding site promoter mutant
+RT-PCR - wt vs fhl1 deletion mutant
+RT-PCR - wt vs fhl1 ifh1 double deletion mutant
+RT-PCR - wt vs hsf1 mutant (ba1 mutation)
+RT-PCR - wt vs TF GOF mutant
+RT-PCR - wt vs TF mutant
+RT-PCR - wt vs TF overexpression
+RT-PCR - wt vs TF repressed mutant
+RT-PCR - wt vs TFBS mutant
+RT-PCR - WT vs. TF mutant
+RT-PCR - wt vs. TF overexpression
+RT-PCR - wt vs. Wt+hsf1 RNA aptamer
+RT-PCR ?upc2?ecm22 vs ?upc2?ecm22 with Upc2 with deletion of the ligand-binding domain
+RT-PCR (WT vs OPI1(ffat) mutant)
+RT-PCR (WT vs TF overexpression)
+RT-PCR wt versus Haa1 S135F (cytosine to thymine mutation at position 404 (serine to phenylalanine exchange at position 135 in the protein))
+RT-PCR Wt versus TF mutant
+RT-PCR Wt versus TF overexpressed
+"RT-PCR wt vs Haa1 S135F truncated (cyt to thym mutation at position 404, ser to phAl exchange at pos 135 in the protein, guanine to tymine mutation at pos 1447, truncation of protein from pos 483)"
+RT-PCR wt vs TF domain mutation
+RT-PCR wt vs TF low expression mutant
+RT-PCR wt vs TF mutant
+RT-PCR wt vs TF overexpression
+RT-PCR Wt vs. TF binding site mutant
+RT-PCR: wt versus haa1DELTA mutant
+RT-PCR: wt versus TF overIndirect
+RT-PCR: WT vs hac1DELTA
+RT-PCR: WT vs TF mutant
+RT-PCR: WT vs TF mutant allele
+RT-PCR: WT vs TF overIndirect
+RT-PCR+Western Blot (hog1DELTA vs hog1DELTAfkh2DELTA)
+RT-qPCR
+RT-qPCR - Wild type vs heterozygous TF deletion mutant
+RT-qPCR (Wt versus HSF1S608A mutant)
+RT-qPCR (Wt versus TF mutant)
+RT-qPCR (WT vs TF deletion mutant)
+RT-qPCR (WT vs TF double mutant (upc2DELTAecm22DELTA)
+RT-qPCR (WT vs TF mutant)
+RT-qPCR (Wt vs. TF mutant)
+RT-qPCR hot1? and hot1?/HOT1 strains
+RT-qPCR wt Gln3 vs Gain-of-function Gln3
+RT-qPCR Wt versus  Dadr1 cat8
+RT-qPCR Wt versus TF mutant
+RT-qPCR Wt vs. SBF site mutants
+RT-qPCR Wt vs. TF overexpression (tet)
+S1 mapping - wt vs mutant promoter TF binding site
+S1 nuclease assay - wt vs TF mutant
+S1 nuclease assay - wt vs TF overexpression
+S1 nuclease assay - wt vs. TF mutant
+S1 nuclease assay (haa1DELTA vs haa1DELTA complemented with pGAL1-HAA1(1-124)/VP16)
+S1 nuclease assay (haa1DELTA vs TF overexpression)
+S1 nuclease assay (WT vs TF deletion mutant)
+S1 nuclease assay (WT vs yox1DELTAyhp1DELTA double mutant)
+S1 nuclease assay wt vs TF mutant
+S1 nuclease assay wt vs TF overexpression
+S1 nuclease assays
+S1 nuclease assays wt vs Mutant promoter region
+S1 nuclease protection assay - wt vs GOF TF mutant
+Shift assays
+Slot blot hybridization - Wild type vs. TF mutant
+Slot blot hybridization - wt vs. TF mutant
+SMT - Single molecule tracking
+SWATH- and DIA-based proteomic workflow
+TaqMan-based RT-qPCR
+TF SRMA
+TF SRMA (selected reaction monitoring MS Analysis)
+Time-lapse fluorescence microscopy
+transcription factor protein chip
+Trx2-GFP
+Western - wt vs. TF mutant
+Western - wt vs. TF overexpression
+Western blot
+Western blot - beta-galactosidase wt vs TFBS mutant
+Western blot - Wild type vs TF mutant
+Western blot - Wild type vs. TF deletion mutant
+Western blot - Wild type vs. TF mutant
+Western blot - Wild type vs. TF OE (plasmid)
+Western blot - Wild-type vs TF mutant
+Western blot - wt vs hap2 rtg1 mutant
+Western blot - wt vs TF mutant
+Western blot - wt vs. TF mutant
+Western blot (uninduced NDT80-IN vs estradiol-induced NDT80-IN)
+Western Blot (WT vs fkh1DELTA)
+Western Blot (WT vs fkh2DELTA)
+Western blot (WT vs pip2DELTAoaf1DELTA double mutant)
+Western blot (WT vs TF deletion mutant)
+Western blot analysis - wt vs pdr1 pdr3 double mutant
+Western Blot WT vs OE mutant
+Western blot: WT vs hac1DELTA
+Western blotting
+Western blotting - Wild type vs TF mutant
+Western blotting - wild type vs TF mutant strain
+Western blotting - Wild type vs TF overexpression
+Western blotting - Wild type vs. TF overexpression
+Western blotting - wt vs TF mutant
+Western wt vs TF mutant
